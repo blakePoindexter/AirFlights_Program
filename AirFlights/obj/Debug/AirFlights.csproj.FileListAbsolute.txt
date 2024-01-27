@@ -1,0 +1,3 @@
+C:\Users\blake\source\repos\AirFlights\AirFlights\obj\Debug\AirFlights.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\AirFlights\AirFlights\obj\Debug\AirFlights.csproj.SuggestedBindingRedirects.cache
+C:\Users\blake\source\repos\AirFlights\AirFlights\obj\Debug\AirFlights.csproj.CoreCompileInputs.cache
